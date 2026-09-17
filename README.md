@@ -25,11 +25,11 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borgexsdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgexsdev&layout=compact&theme=dark"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=borgexsdev&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgexsdev&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</p>
 ---
 
 ### 📬 Conecte-se comigo
