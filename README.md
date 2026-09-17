@@ -24,13 +24,5 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borgexsdev&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgexsdev&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
----
-
 ### 📬 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoborgexs)
