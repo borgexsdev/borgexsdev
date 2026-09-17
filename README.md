@@ -3,6 +3,7 @@
 ### 🛠️ Tecnologias & Certificações
 
 **Back-end & Cloud**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
